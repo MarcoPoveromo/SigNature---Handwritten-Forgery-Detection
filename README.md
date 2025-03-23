@@ -1,4 +1,10 @@
-# SigNature---Handwritten-Forgery-Detection
-The handwritten signature forgery detection task consists in recognizing if a signature has been made by the rightful owner (genuine), or if it has been made by a malicious (forge).
+# SigNature - Handwritten Forgery Detection
+The goal of the following work is to present and analize the impact of
+different approaches to the task of handwritten signature forgery detection.
+There will be presented three models related to two kind of approaches:
+writer dependent (the model classify a user that already trained on) and
+writer independent (the model doesn’t train on new user’s instances), with
+advantages and disadvantages of the two approaches, also based on the
+number of signatures we have already available for new user.
 
-[Intro.pdf](http://MarcoPoveromo.github.io/SigNature---Handwritten-Forgery-Detection/AML___Signature_Verification.pdf)
+[Paper PDF](http://MarcoPoveromo.github.io/SigNature---Handwritten-Forgery-Detection/AML___Signature_Verification.pdf)
