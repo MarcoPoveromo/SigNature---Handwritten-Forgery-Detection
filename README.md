@@ -8,3 +8,5 @@ advantages and disadvantages of the two approaches, also based on the
 number of signatures we have already available for new user.
 
 [Paper PDF](http://MarcoPoveromo.github.io/SigNature---Handwritten-Forgery-Detection/docs/AML___Signature_Verification.pdf)
+
+<iframe src="[https://github.com/tuo-utente/tuo-repo/raw/main/nome-del-tuo-file.pdf](http://MarcoPoveromo.github.io/SigNature---Handwritten-Forgery-Detection/docs/AML___Signature_Verification.pdf)" width="100%" height="600px"></iframe>
