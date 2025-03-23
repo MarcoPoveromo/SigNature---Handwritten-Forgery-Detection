@@ -7,4 +7,4 @@ writer independent (the model doesn’t train on new user’s instances), with
 advantages and disadvantages of the two approaches, also based on the
 number of signatures we have already available for new user.
 
-[📄 Visualizza il Paper](http://MarcoPoveromo.github.io/SigNature---Handwritten-Forgery-Detection/docs/AML___Signature_Verification.pdf)
+[📄 Show Paper](http://MarcoPoveromo.github.io/SigNature---Handwritten-Forgery-Detection/docs/AML___Signature_Verification.pdf)
